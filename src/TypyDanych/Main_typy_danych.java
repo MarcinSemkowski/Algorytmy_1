@@ -71,6 +71,12 @@ public class Main_typy_danych {
 
 
 
+
+
+
+
+
+
     }
 
 

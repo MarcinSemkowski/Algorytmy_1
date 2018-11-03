@@ -3,7 +3,7 @@ package Zadania_2;
     public class BubbleSort {
 
 
-        //todo zrobić w chacie 
+        //todo zrobić w chacie
 
 
 

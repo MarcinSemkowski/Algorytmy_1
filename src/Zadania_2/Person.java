@@ -5,6 +5,7 @@ import javax.naming.Name;
 
 public class Person implements  Comparable<Person> {
 
+    //todo zrobić w chacie
 
        private   String Name;
 

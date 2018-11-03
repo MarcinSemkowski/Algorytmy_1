@@ -17,7 +17,7 @@ public class Sort {
             if(i == new_array.length -1 ){
 
               new_array[i] = number;
-              continue;
+              break;
             }
 
           new_array[i] = array[i];
